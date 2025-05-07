@@ -1,0 +1,56 @@
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Dal\bin\Debug\net7.0\Dal.deps.json
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Dal\bin\Debug\net7.0\Dal.runtimeconfig.json
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Dal\bin\Debug\net7.0\Dal.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Dal\bin\Debug\net7.0\Dal.pdb
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Dal\obj\Debug\net7.0\Dal.csproj.AssemblyReference.cache
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Dal\obj\Debug\net7.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Dal\obj\Debug\net7.0\Dal.AssemblyInfoInputs.cache
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Dal\obj\Debug\net7.0\Dal.AssemblyInfo.cs
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Dal\obj\Debug\net7.0\Dal.csproj.CoreCompileInputs.cache
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Dal\obj\Debug\net7.0\Dal.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Dal\obj\Debug\net7.0\refint\Dal.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Dal\obj\Debug\net7.0\Dal.pdb
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Dal\obj\Debug\net7.0\Dal.genruntimeconfig.cache
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Dal\obj\Debug\net7.0\ref\Dal.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Dal\bin\Debug\net7.0\Dal.deps.json
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Dal\bin\Debug\net7.0\Dal.runtimeconfig.json
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Dal\bin\Debug\net7.0\Dal.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Dal\bin\Debug\net7.0\Dal.pdb
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Dal\obj\Debug\net7.0\Dal.csproj.AssemblyReference.cache
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Dal\obj\Debug\net7.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Dal\obj\Debug\net7.0\Dal.AssemblyInfoInputs.cache
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Dal\obj\Debug\net7.0\Dal.AssemblyInfo.cs
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Dal\obj\Debug\net7.0\Dal.csproj.CoreCompileInputs.cache
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Dal\obj\Debug\net7.0\Dal.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Dal\obj\Debug\net7.0\refint\Dal.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Dal\obj\Debug\net7.0\Dal.pdb
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Dal\obj\Debug\net7.0\Dal.genruntimeconfig.cache
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Dal\obj\Debug\net7.0\ref\Dal.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Dal\bin\Debug\net7.0\Dal.deps.json
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Dal\bin\Debug\net7.0\Dal.runtimeconfig.json
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Dal\bin\Debug\net7.0\Dal.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Dal\bin\Debug\net7.0\Dal.pdb
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Dal\obj\Debug\net7.0\Dal.csproj.AssemblyReference.cache
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Dal\obj\Debug\net7.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Dal\obj\Debug\net7.0\Dal.AssemblyInfoInputs.cache
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Dal\obj\Debug\net7.0\Dal.AssemblyInfo.cs
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Dal\obj\Debug\net7.0\Dal.csproj.CoreCompileInputs.cache
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Dal\obj\Debug\net7.0\Dal.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Dal\obj\Debug\net7.0\refint\Dal.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Dal\obj\Debug\net7.0\Dal.pdb
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Dal\obj\Debug\net7.0\Dal.genruntimeconfig.cache
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Dal\obj\Debug\net7.0\ref\Dal.dll
+D:\פרויקט ריקי ורחלי\C#\Dal\bin\Debug\net7.0\Dal.deps.json
+D:\פרויקט ריקי ורחלי\C#\Dal\bin\Debug\net7.0\Dal.runtimeconfig.json
+D:\פרויקט ריקי ורחלי\C#\Dal\bin\Debug\net7.0\Dal.dll
+D:\פרויקט ריקי ורחלי\C#\Dal\bin\Debug\net7.0\Dal.pdb
+D:\פרויקט ריקי ורחלי\C#\Dal\obj\Debug\net7.0\Dal.csproj.AssemblyReference.cache
+D:\פרויקט ריקי ורחלי\C#\Dal\obj\Debug\net7.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרויקט ריקי ורחלי\C#\Dal\obj\Debug\net7.0\Dal.AssemblyInfoInputs.cache
+D:\פרויקט ריקי ורחלי\C#\Dal\obj\Debug\net7.0\Dal.AssemblyInfo.cs
+D:\פרויקט ריקי ורחלי\C#\Dal\obj\Debug\net7.0\Dal.csproj.CoreCompileInputs.cache
+D:\פרויקט ריקי ורחלי\C#\Dal\obj\Debug\net7.0\Dal.dll
+D:\פרויקט ריקי ורחלי\C#\Dal\obj\Debug\net7.0\refint\Dal.dll
+D:\פרויקט ריקי ורחלי\C#\Dal\obj\Debug\net7.0\Dal.pdb
+D:\פרויקט ריקי ורחלי\C#\Dal\obj\Debug\net7.0\Dal.genruntimeconfig.cache
+D:\פרויקט ריקי ורחלי\C#\Dal\obj\Debug\net7.0\ref\Dal.dll

@@ -1,0 +1,290 @@
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\appsettings.Development.json
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\appsettings.json
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\Ui.exe
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\Ui.deps.json
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\Ui.runtimeconfig.json
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\Ui.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\Ui.pdb
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\obj\Debug\net7.0\Ui.csproj.AssemblyReference.cache
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\obj\Debug\net7.0\Ui.GeneratedMSBuildEditorConfig.editorconfig
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\obj\Debug\net7.0\Ui.AssemblyInfoInputs.cache
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\obj\Debug\net7.0\Ui.AssemblyInfo.cs
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\obj\Debug\net7.0\Ui.csproj.CoreCompileInputs.cache
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\obj\Debug\net7.0\Ui.MvcApplicationPartsAssemblyInfo.cs
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\obj\Debug\net7.0\Ui.MvcApplicationPartsAssemblyInfo.cache
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\obj\Debug\net7.0\staticwebassets\msbuild.Ui.Microsoft.AspNetCore.StaticWebAssets.props
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\obj\Debug\net7.0\staticwebassets\msbuild.build.Ui.props
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Ui.props
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Ui.props
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\obj\Debug\net7.0\staticwebassets.pack.json
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\obj\Debug\net7.0\staticwebassets.build.json
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\obj\Debug\net7.0\staticwebassets.development.json
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\obj\Debug\net7.0\scopedcss\bundle\Ui.styles.css
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\obj\Debug\net7.0\Ui.csproj.CopyComplete
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\obj\Debug\net7.0\Ui.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\obj\Debug\net7.0\refint\Ui.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\obj\Debug\net7.0\Ui.pdb
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\obj\Debug\net7.0\Ui.genruntimeconfig.cache
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\obj\Debug\net7.0\ref\Ui.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\Azure.Core.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\Azure.Identity.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\System.Memory.Data.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\Bl.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\Dal.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\Bl.pdb
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקטטטט\C#\Ui\bin\Debug\net7.0\Dal.pdb
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\appsettings.Development.json
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\appsettings.json
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Ui.exe
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Ui.deps.json
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Ui.runtimeconfig.json
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Ui.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Ui.pdb
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Azure.Core.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Azure.Identity.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\System.Memory.Data.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Bl.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Dal.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Bl.pdb
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Dal.pdb
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\Ui.csproj.AssemblyReference.cache
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\Ui.GeneratedMSBuildEditorConfig.editorconfig
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\Ui.AssemblyInfoInputs.cache
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\Ui.AssemblyInfo.cs
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\Ui.csproj.CoreCompileInputs.cache
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\Ui.MvcApplicationPartsAssemblyInfo.cs
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\Ui.MvcApplicationPartsAssemblyInfo.cache
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\staticwebassets\msbuild.Ui.Microsoft.AspNetCore.StaticWebAssets.props
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\staticwebassets\msbuild.build.Ui.props
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Ui.props
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Ui.props
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\staticwebassets.pack.json
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\staticwebassets.build.json
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\staticwebassets.development.json
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\scopedcss\bundle\Ui.styles.css
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\Ui.csproj.CopyComplete
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\Ui.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\refint\Ui.dll
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\Ui.pdb
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\Ui.genruntimeconfig.cache
+F:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\ref\Ui.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Azure.Core.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Azure.Identity.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.OpenApi.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\System.Drawing.Common.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\System.Memory.Data.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\System.Runtime.Caching.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\System.Security.Permissions.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\System.Windows.Extensions.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Bl.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Dal.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Bl.pdb
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Dal.pdb
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\Ui.csproj.AssemblyReference.cache
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\Ui.GeneratedMSBuildEditorConfig.editorconfig
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\Ui.AssemblyInfoInputs.cache
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\Ui.AssemblyInfo.cs
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\Ui.csproj.CoreCompileInputs.cache
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\Ui.MvcApplicationPartsAssemblyInfo.cs
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\Ui.MvcApplicationPartsAssemblyInfo.cache
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\staticwebassets\msbuild.Ui.Microsoft.AspNetCore.StaticWebAssets.props
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\staticwebassets\msbuild.build.Ui.props
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Ui.props
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Ui.props
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\staticwebassets.pack.json
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\staticwebassets.build.json
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\staticwebassets.development.json
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\scopedcss\bundle\Ui.styles.css
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\Ui.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\refint\Ui.dll
+Y:\תיקייה כללית חדש\שנה ב תשפה\קבוצה ב\תלמידות\תלמידות\דרסלר רחלי\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\Ui.pdb
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\appsettings.Development.json
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\appsettings.json
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Ui.exe
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Ui.deps.json
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Ui.runtimeconfig.json
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Ui.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Ui.pdb
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Azure.Core.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Azure.Identity.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\System.Memory.Data.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Bl.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Dal.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Bl.pdb
+D:\פרויקט ריקי ורחלי\C#\Ui\bin\Debug\net7.0\Dal.pdb
+D:\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\Ui.csproj.AssemblyReference.cache
+D:\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\Ui.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\Ui.AssemblyInfoInputs.cache
+D:\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\Ui.AssemblyInfo.cs
+D:\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\Ui.csproj.CoreCompileInputs.cache
+D:\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\Ui.MvcApplicationPartsAssemblyInfo.cs
+D:\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\Ui.MvcApplicationPartsAssemblyInfo.cache
+D:\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\staticwebassets\msbuild.Ui.Microsoft.AspNetCore.StaticWebAssets.props
+D:\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\staticwebassets\msbuild.build.Ui.props
+D:\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Ui.props
+D:\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Ui.props
+D:\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\staticwebassets.pack.json
+D:\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\staticwebassets.build.json
+D:\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\staticwebassets.development.json
+D:\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\scopedcss\bundle\Ui.styles.css
+D:\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\Ui.csproj.CopyComplete
+D:\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\Ui.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\refint\Ui.dll
+D:\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\Ui.pdb
+D:\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\Ui.genruntimeconfig.cache
+D:\פרויקט ריקי ורחלי\C#\Ui\obj\Debug\net7.0\ref\Ui.dll
